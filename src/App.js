@@ -1,4 +1,5 @@
 import './App.css';
+import Pokedex from './Pokedex';
 
 const App = () => {
   return (
