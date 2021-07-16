@@ -1,7 +1,9 @@
 import './App.css';
 
-function App() {
-  
+const App = () => {
+  return (
+    <Pokedex />
+  )
 }
 
 export default App;
