@@ -1,3 +1,13 @@
+# Functionality
+
+![screenshot of app](screenshot.png)
+
+This is a simple web page I've created that has allowed me to practice working with React / Create React App / JSX / props.
+
+It simply displays information about various pokemon on a single page.
+
+It was made using three components, located in **src/App.js**, **src/Pokecard.js**, and **src/Pokedex.js**.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
