@@ -2,7 +2,9 @@ import './App.css';
 
 const App = () => {
   return (
-    <Pokedex />
+    <div className="App">
+      <Pokedex />
+    </div>
   )
 }
 
