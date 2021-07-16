@@ -7,3 +7,11 @@
     border: 2px solid black;
     border-radius: 10px;
 }
+
+.Pokecard-name {
+    color: blue;
+}
+
+.Pokecard-type, .Pokecard-exp {
+    color: black;
+}
